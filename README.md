@@ -44,4 +44,4 @@ profitability drivers, and actionable business insights.
 5. Open Power BI file to explore the interactive dashboard
 
 ## 📬 Contact
-[Your Name] | [LinkedIn URL] | [Email]
+[Mansi Tamta] | [https://www.linkedin.com/in/mansi-tamta] | [mansi41997@gmail.com]
