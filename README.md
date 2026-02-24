@@ -55,8 +55,8 @@ superstore-analysis/
 │   └── 03_visualizations.ipynb      # Charts & visual insights
 │
 ├── 📂 sql/
-│   ├── 01_business_queries.sql       # Core business analysis
-│   └── 02_advanced_analysis.sql     # Window functions, CTEs, trends
+│   ├── business_queries.sql       # Core business analysis
+│   └── advanced_analysis.sql     # Window functions, CTEs, trends
 │
 ├── 📂 excel/
 │   └── superstore_summary.xlsx       # Pivot table dashboard
@@ -122,7 +122,7 @@ Run in order: `01_data_cleaning` → `02_eda_analysis` → `03_visualizations`
 **SQL Analysis:**
 - Create a PostgreSQL database named `superstore_db` in pgAdmin
 - Import `superstore_clean.csv` via pgAdmin Import tool
-- Run scripts in order: `01` → `02`
+- Run scripts in order: `business_queries.sql` → `advanced_analysis.sql`
 
 **Power BI Dashboard:**
 - Open `dashboard/superstore_dashboard.pbix` in Power BI Desktop
