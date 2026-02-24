@@ -53,7 +53,7 @@ superstore-analysis/
 
 ## Dashboard Preview
 
-![Dashboard](exports/dashboard.png)
+![Dashboard](exports/Dashboard.png)
 
 ---
 
